@@ -1,7 +1,7 @@
 # VEML6040 RGBW I2C READ
 
-- Sensor: RGBW Color Sensor with I2C Interface
-- sensor reading communication protocol: I2C
-- PC communication protocol with computer:  UART
-
-Design by: https://www.linkedin.com/in/musacufalci/
+- VEML6040 color sensor senses red, green, blue, and white light and incorporates photodiodes, amplifiers, and analog/digital circuits into a single chip using CMOS process...
+- Sensor: VEML6040 RGBW Color Sensor with I2C Interface
+- Sensor reading communication protocol: I2C
+- PC communication protocol with computer: UART
+- Design by: https://www.linkedin.com/in/musacufalci/
